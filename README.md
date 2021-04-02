@@ -7,3 +7,5 @@ This docker based setup, is what i use locally to develop laravel applications, 
 |Public Port|Service|
 |------------- | -------------|
 |3306|MariaDB|
+|8080|PHPMyAdmin|
+|8888|Dozzle|
