@@ -1,0 +1,1 @@
+docker exec db sh -c 'exec mysqldump --all-databases -uroot -p"$MYSQL_ROOT_PASSWORD"' > ./backups/all-databases.sql
